@@ -86,16 +86,16 @@ public class DijkstraTester
 
                             String theDistance = String.valueOf(d.getDistance(endCity));   //Display the distance
                             distance.setText(theDistance.substring(0,6) + " Miles");
-				}
+			}
 
-				else   //No distance needs to be travelled if reached destination
-                {
-					distance.setText("00.00 Miles");
-					ArrayList<Vertex> path = null;
-					map.addPath(path);
-					map.repaint();
-				}
+			else   //No distance needs to be travelled if reached destination
+             		{
+				distance.setText("00.00 Miles");
+				ArrayList<Vertex> path = null;
+				map.addPath(path);
+				map.repaint();
 			}
 		}
 	}
 }
+
