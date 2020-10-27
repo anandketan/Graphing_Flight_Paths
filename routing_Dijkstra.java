@@ -1,3 +1,9 @@
+//Planning and optimizing flight routes between cities 
+//Using Dijkstra's Algorithm to continuously eliminate longer paths
+//Part of Final Project - for MOOC on Graph Theory, UCSD on Coursera
+
+//******************************************************************
+
 import java.io.*;
 import javax.swing.*;
 import java.awt.*;
