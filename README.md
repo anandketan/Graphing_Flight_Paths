@@ -16,10 +16,10 @@ Kruskal's algorithm to find the minimum cost spanning tree uses the greedy appro
 3. Add the edge which has the least weightage. <br>
 
 ## References
-Algorithms in Graph Theory: https://www.tutorialspoint.com/graph_theory/index.htm
-Dijkstra's algorithm: https://brilliant.org/wiki/dijkstras-short-path-finder/
-Seven Bridges of Königsberg problem: https://mathworld.wolfram.com/KoenigsbergBridgeProblem.html
-Graph Theory introduction: http://stanford.edu/~jolivier/305_refresher_notes/Basic_graph_theory_and_algorithms.pdf
+Algorithms in Graph Theory: https://www.tutorialspoint.com/graph_theory/index.htm  <br>
+Dijkstra's algorithm: https://brilliant.org/wiki/dijkstras-short-path-finder/  <br>
+Seven Bridges of Königsberg problem: https://mathworld.wolfram.com/KoenigsbergBridgeProblem.html  <br>
+Graph Theory introduction: http://stanford.edu/~jolivier/305_refresher_notes/Basic_graph_theory_and_algorithms.pdf  <br>
 Graph Theory certification: https://coursera.org/share/7295db0e23458e17d3c31c22961cef75
 
 
